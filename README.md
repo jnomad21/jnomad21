@@ -4,7 +4,8 @@
 <h3>Who Am I🤔</h3>
 <ul>
 <li>Just a guy who loves to build things.  I'm an engineer at heart</li>
-<li>I spent several years hiring top-level software engineers for enterprise companies and start-ups so I'm very familiar with the SLDC lifecyle.</li>
+<li>I spent several years hiring top-level software engineers for enterprise companies and start-ups so I'm very familiar with the SLDC lifecycle.</li>
+<li>Because of this experience I have strong Project & Client Management tools.  I've spent extensive time interfacing with business stakeholders on C & VP levels as well as engineering leaders.</li>
 </ul>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
