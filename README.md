@@ -17,6 +17,7 @@
 </ul>
 <h3>Skills🛠</h3>
 <img src="https://skillicons.dev/icons?i=js,react,cs,dotnet,aws,py,django,nodejs,express,html,css,mongodb,postgres,docker,figma">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjnomad21&count_bg=%233D66C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=*&edge_flat=false"/></a>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
