@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/127683817/281920082-863a7c5e-1ea3-4091-92ac-c9686d255b44.jpg" width="800" height="200">
-<H1 style="text-align:center">Welcome to my GitHub</H1>
+<div align="center"><H1 style="text-align:center">Welcome to my GitHub</H1></div>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
