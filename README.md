@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/127683817/281914946-03cd4ba8-4f0d-4ab0-87dc-e60cafb9fc4e.jpg" alt="blue-hands-computer-code" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/127683817/281914946-03cd4ba8-4f0d-4ab0-87dc-e60cafb9fc4e.jpg" alt="blue-hands-computer-code" style="max-width: 100%; height:60%">
 
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
