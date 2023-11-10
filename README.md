@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text][(https://{insert your image URL}](https://imgur.com/a/cgDGFix) “add your alt text”)
+![alt text][(https://imgur.com/a/cgDGFix)] “add your alt text”)
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
