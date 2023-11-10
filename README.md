@@ -1,12 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=bdd4e7&fontColor=637074&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=60&animation=fadeIn)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+![header](https://imgur.com/a/cgDGFix)
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
