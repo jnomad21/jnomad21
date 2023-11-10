@@ -15,6 +15,7 @@
   <br>
   <img src="https://github.com/jnomad21/jnomad21/assets/127683817/f11dda33-9d56-4395-9114-f51e099d3488" width="50%">
 </ul>
+<h3>Skills🛠</h3>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
