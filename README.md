@@ -1,7 +1,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/127683817/281920082-863a7c5e-1ea3-4091-92ac-c9686d255b44.jpg" width="800" height="200"></div>
 <div align="center"><H1 style="text-align:center">Welcome to my GitHub!</H1></div>
 
-<h3>Who Am I</h3>
+<h3>Who Am I🤔</h3>
 <ul>
 <li>Just a guy who loves to build things.  I'm an engineer at heart</li>
 </ul>
