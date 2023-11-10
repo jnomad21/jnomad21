@@ -7,6 +7,11 @@
 <li>I spent several years hiring top-level software engineers for enterprise companies and start-ups so I'm very familiar with the SLDC lifecycle.</li>
 <li>Because of this experience I have strong Project & Client Management tools.  I've spent extensive time interfacing with business stakeholders on C & VP levels as well as engineering leaders.</li>
 </ul>
+<h3>What am I up to💻</h3>
+<ul>
+<li>Learning and growing my development toolkit.  Bootcamp graduate.  Volunteer and freelance software engineering.  Several certifications. </li>
+<li>Check out my website I built with a couple of colleagues as an example of my work [Refurred](http://re-furred.com)</li>
+</ul>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
