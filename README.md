@@ -10,7 +10,8 @@
 <h3>What am I up to💻</h3>
 <ul>
 <li>Learning and growing my development toolkit.  Bootcamp graduate.  Volunteer and freelance software engineering.  Several certifications. </li>
-<li>Check out my website I built with a couple of colleagues as an example of my work [Refurred](http://re-furred.com)</li>
+<li>Check out my website I built with a couple of colleagues as an example of my work 
+  [Refurred](http://re-furred.com)</li>
 </ul>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
