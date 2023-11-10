@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/127683817/281914946-03cd4ba8-4f0d-4ab0-87dc-e60cafb9fc4e.jpg" alt="blue-hands-computer-code" style="max-width: 100%; height:60%;">
 
