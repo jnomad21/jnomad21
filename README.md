@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=8693AB&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=60&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=bdd4e7&fontColor=8693AB&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=60&animation=fadeIn)
 
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
