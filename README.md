@@ -12,8 +12,7 @@
 <li>Learning and growing my development toolkit.  Bootcamp graduate.  Volunteer and freelance software engineering.  Several certifications. </li>
 <li>Check out my website I built with a couple of colleagues as an example of my work </li>
   (www.re-furred.com)
-  ![refurred-thumb](https://github.com/jnomad21/jnomad21/assets/127683817/f11dda33-9d56-4395-9114-f51e099d3488)
-
+  <img src="https://github.com/jnomad21/jnomad21/assets/127683817/f11dda33-9d56-4395-9114-f51e099d3488"
 </ul>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
