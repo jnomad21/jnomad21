@@ -2,6 +2,7 @@
 <div align="center"><H1 style="text-align:center">Welcome to my GitHub!</H1></div>
 
 <h3>Who Am I</h3>
+<li>Just a guy who loves to build things.  I'm an engineer at heart</li>
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
