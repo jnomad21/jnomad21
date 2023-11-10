@@ -1,4 +1,6 @@
-[![header](https://imgur.com/a/cgDGFix)]
+![header]![blue-hands-computer-code](https://github.com/jnomad21/jnomad21/assets/127683817/863a7c5e-1ea3-4091-92ac-c9686d255b44)
+
+
 <!--
 **jnomad21/jnomad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
