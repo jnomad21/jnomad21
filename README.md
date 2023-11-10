@@ -1,4 +1,4 @@
-![header]![blue-hands-computer-code](https://github.com/jnomad21/jnomad21/assets/127683817/863a7c5e-1ea3-4091-92ac-c9686d255b44)
+[![header]![blue-hands-computer-code](https://github.com/jnomad21/jnomad21/assets/127683817/863a7c5e-1ea3-4091-92ac-c9686d255b44)]
 
 
 <!--
