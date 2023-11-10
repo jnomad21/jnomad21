@@ -1,6 +1,6 @@
 ![Computer Hands](https://user-images.githubusercontent.com/127683817/281920082-863a7c5e-1ea3-4091-92ac-c9686d255b44.jpg)
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/127683817/281920082-863a7c5e-1ea3-4091-92ac-c9686d255b44.jpg" alt="Alt text" height="300"/>
+  <img src="https://user-images.githubusercontent.com/127683817/281920082-863a7c5e-1ea3-4091-92ac-c9686d255b44.jpg" alt="Alt text" width="max" height="300"/>
   <p>This is some text on top of the image.</p>
 </div>
 
